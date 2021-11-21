@@ -1,0 +1,23 @@
+{
+    "name": "chiron-sung-hk-webfont",
+    "version": "1.0.0",
+    "description": "Webfont version of Chiron Sung HK, a font specialized for Traditional Chinese environment.",
+    "keywords": [
+        "Traditional Chinese",
+        "webfont",
+        "font",
+        "cjk",
+        "serif",
+        "woff2"
+    ],
+    "homepage": "https://chiron-fonts.github.io/sung",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/chiron-fonts/chiron-sung-hk.git"
+    },
+    "author": "Tamcy",
+    "license": "OFL-1.1"
+}
