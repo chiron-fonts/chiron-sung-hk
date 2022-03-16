@@ -1,8 +1,8 @@
 /**
  * Font family: Chiron Sung HK WS, generated from Chiron Sung HK
- * Version: 1.000
- * Website: https://chiron-fonts.github.io/sung/
- * Build time: 2022-01-27 20:03:41
+ * Version: 1.001
+ * Website: https://chiron-fonts.github.io/
+ * Build time: 2022-03-15 20:14:36
  */
 
 /* [A_LGC] */
@@ -1020,7 +1020,7 @@
   font-weight: 250 900;
   font-display: swap;
   src: url('../woff2/chironsunghkitvf.M_mns.woff2') format('woff2-variations'), url('../woff2/chironsunghkitvf.M_mns.woff2') format('woff2 supports variations');
-  unicode-range: U+9268, U+9273, U+99f9, U+29e3d;
+  unicode-range: U+2eae, U+9268, U+9273, U+99f9, U+9bf2, U+b515, U+bcf8, U+29e3d;
 }
 /* [M_exg] */
 @font-face {
@@ -1038,7 +1038,7 @@
   font-weight: 250 900;
   font-display: swap;
   src: url('../woff2/chironsunghkitvf.M_ECV.woff2') format('woff2-variations'), url('../woff2/chironsunghkitvf.M_ECV.woff2') format('woff2 supports variations');
-  unicode-range: U+21046, U+210ab, U+2210c, U+2216d, U+242b6, U+2554f, U+277d8, U+2bb37, U+2d253, U+2d25d, U+301db, U+315d9, U+31b90, U+31bcd, U+31c2e, U+31c57, U+31f5a, U+31f5c, U+321b9, U+322a6, U+322df;
+  unicode-range: U+20027, U+20088, U+201a3, U+2025e, U+2029b, U+203b7, U+2048b, U+204db, U+20503, U+2053c, U+20546, U+2055e, U+20584, U+205fb, U+207a9, U+207ef, U+2081d, U+20895, U+20992, U+209f4, U+20a0d, U+20a42, U+20a6c, U+20aa8, U+20aca, U+20af9, U+20afe, U+20b1e, U+20b20, U+20b89, U+20b93, U+20b9b, U+20c25, U+20c32, U+20c4a, U+20c79, U+20c7e, U+20d25, U+20de0, U+20e47, U+20ef4, U+20f19, U+20f33, U+21020, U+21023, U+21032, U+21046, U+210ab, U+2110e, U+211a0, U+211bb, U+211d2, U+21284, U+212d1, U+21484, U+2158a, U+21624, U+21641, U+217d3, U+218d5, U+21913, U+21b67, U+21b82, U+21bd7, U+21cde, U+21f9f, U+22021, U+22038, U+2203f, U+220d1, U+2210c, U+22127, U+2216d, U+221db, U+2228a, U+2228d, U+22399, U+2239e, U+223a8, U+224dc, U+2250b, U+22596, U+22780, U+22994, U+22a8e, U+22ab1, U+22b72, U+22bed, U+22bfe, U+22c4b, U+22c64, U+22c85, U+22cb4, U+22cea, U+22d29, U+22d80, U+22e6c, U+22ef7, U+22efb, U+22f0c, U+22f1b, U+23073-23074, U+231fb, U+2321c, U+23350, U+2338f, U+23471, U+23657, U+238f1, U+239ce, U+23a48, U+23b20, U+23b36, U+23b88, U+23c08, U+23c46, U+23ca9, U+23d83, U+23d99-23d9c, U+23ea2, U+23f0e, U+23f7d, U+24044, U+241aa, U+242a8, U+242b6, U+24352, U+2435e, U+243fb, U+24419, U+24430, U+24532, U+245af, U+24605, U+2479a, U+2485b, U+2487a, U+24bcc, U+24bdf, U+24c19, U+24c8d, U+24d83, U+24e01, U+24e31, U+24e85, U+24eaa, U+250ed, U+25224, U+2531a, U+25349, U+25435, U+2554f, U+2595b, U+259f9, U+25b95, U+25bdf, U+25be5, U+25c14, U+25d0a, U+277d8, U+2bb37, U+2d253, U+2d25d, U+301db, U+315d9, U+31b90, U+31bcd, U+31c2e, U+31c57, U+31f5a, U+31f5c, U+321b9, U+322a6, U+322df;
 }
 /* [E_EAB_0] */
 @font-face {
@@ -1119,7 +1119,7 @@
   font-weight: 250 900;
   font-display: swap;
   src: url('../woff2/chironsunghkitvf.E_EAO.woff2') format('woff2-variations'), url('../woff2/chironsunghkitvf.E_EAO.woff2') format('woff2 supports variations');
-  unicode-range: U+34d9, U+3614, U+3cdb, U+3f36, U+654b, U+9b98, U+9d64, U+2028e, U+215d7, U+26936, U+2bd71;
+  unicode-range: U+34d9, U+3614, U+3cdb, U+3f36, U+654b, U+9b98, U+9d64, U+fa71, U+20010, U+20015, U+20041, U+20045, U+2004a, U+201d7, U+201ee, U+20201, U+20203, U+2022a, U+20263, U+2026a, U+2026e, U+2028e, U+202b2, U+20302, U+2032f, U+20336, U+2033c, U+20372, U+20379, U+2037d, U+2043b, U+20479, U+2047d, U+204ba, U+20525, U+20542, U+20545, U+2054b, U+20560, U+20577, U+20587, U+205ab, U+205c2, U+205e6, U+20627, U+20679, U+206a3, U+206ce, U+206ea, U+206f1, U+2070d, U+20733, U+20736, U+2073e, U+20787, U+207ad, U+207b0, U+207df, U+207ea, U+20803, U+2088e, U+208a4, U+2090f, U+20986, U+20991, U+20994, U+209ab, U+20a1c, U+20a44, U+20a7a, U+20abe, U+20af5, U+20afb, U+20b1b, U+20b22, U+20b27, U+20b36, U+20b6f, U+20ba0, U+20ba5, U+20bbe, U+20bd1, U+20bd7, U+20bea, U+20c60, U+20c8e, U+20ca3, U+20cbf, U+20ccb, U+20cfc, U+20d14, U+20d1f, U+20d22, U+20d30, U+20d66, U+20d7d, U+20dce, U+20dd4, U+20e3a, U+20e5a, U+20ef3, U+20f1f, U+20f43, U+20f4a, U+20f7e, U+20f8f, U+21016, U+2101a, U+2103e, U+21055, U+210e7, U+210f0, U+21135, U+21219, U+21292, U+212a5, U+21334, U+21377, U+21396, U+2139b, U+213d2, U+2145e, U+21483, U+2153d, U+21555, U+21557, U+215d7, U+215dc, U+21627, U+21637, U+21681, U+21731, U+217cb, U+2181c, U+21827, U+21898, U+21948, U+2195c, U+219cd, U+219ef, U+21a04, U+21a18, U+21a1c, U+21a3c, U+21aa1, U+21b36, U+21b3e, U+21b4a, U+21b74, U+21b7d, U+21bc4, U+21bd3, U+21c2b, U+21c52, U+21c6e, U+21c97, U+21d0e, U+21dbe, U+21e01, U+21e47, U+21ec9, U+21ef7, U+21f21, U+21f57, U+21fd5, U+21fe7, U+21fea, U+22048, U+22091, U+22110, U+22119, U+2214f, U+22189, U+221b6, U+221c7, U+221dd, U+22258, U+222c7, U+222ca, U+222f8, U+2231a-2231b, U+22341, U+2237f, U+223ee, U+2254b, U+225cd, U+225d0, U+225d7, U+22644, U+226c1, U+2272b, U+2274a, U+22833, U+22835, U+22838, U+22856, U+22891, U+228b6, U+2295e, U+22960, U+22999, U+2299f, U+229dc, U+229e9, U+229f5, U+22a2a, U+22a60, U+22a74, U+22af5, U+22b35, U+22b38, U+22ba5, U+22be6, U+22bf1-22bf2, U+22c05, U+22c5f, U+22c67, U+22c94, U+22cb8, U+22cce, U+22cdc, U+22cdf, U+22d09, U+22d7f, U+22d91-22d92, U+22dce, U+22dd6, U+22de4, U+22dec, U+22e04-22e05, U+22e33, U+22e51, U+22e72, U+22ea2, U+22ec3, U+22ef9, U+22f04, U+22f5a, U+22f5f, U+22f96, U+22fe8, U+2301b, U+23039, U+23054, U+2308f, U+230e4, U+2311a, U+23123, U+23143, U+231c7, U+232a1, U+23386, U+2339c, U+233b3, U+233b5, U+233bc, U+233c2, U+233cb, U+233d7, U+234c0, U+234cc, U+23533, U+23582, U+235a7, U+2361b, U+23626, U+2365c, U+23687, U+2374d, U+237c4, U+237f4, U+2384c, U+238bf, U+238f7, U+238fb, U+239b5, U+239bc, U+239c4, U+239d1, U+23a8a, U+23a95, U+23aa0, U+23ad2, U+23ade, U+23b09, U+23b61, U+23b72, U+23bc4, U+23c07, U+23c50, U+23c59, U+23c86, U+23d13, U+23d2e, U+23d66, U+23d77, U+23d7a, U+23d82, U+23d90, U+23d92, U+23e2a, U+23e8c, U+23e8e, U+23f11, U+23f49, U+23faa-23fab, U+23fb0, U+24062, U+24073, U+24086, U+24137, U+24162, U+2423a, U+24261, U+24355, U+24360, U+243a9, U+243e1, U+243f6, U+2447e, U+244a6, U+2450c, U+24514, U+2455f, U+24656, U+24661, U+246d8, U+2470c, U+24731, U+24757, U+24763, U+2477d, U+247b0, U+247b6, U+247e1, U+24811, U+24814, U+24886, U+2488a, U+248c3, U+248e5, U+24920, U+2493a, U+24955, U+24957, U+24a0f, U+24abd, U+24b5b, U+24b62, U+24b80, U+24c07-24c08, U+24c15, U+24c18, U+24c1a, U+24c1c-24c1e, U+24c21, U+24c2f, U+24c48, U+24c4a, U+24c54, U+24c5d, U+24c70, U+24c76, U+24c85, U+24cc8, U+24d1b, U+24d21, U+24d4a, U+24d50, U+24d5c, U+24d80, U+24de4, U+24e05, U+24e07-24e08, U+24e8e, U+24e98, U+24eba, U+24ed8, U+24ef4, U+24fc6, U+24fea, U+25016, U+25043-25044, U+25093, U+25115, U+25128, U+2512d, U+2515f, U+25161, U+2517b, U+2531b, U+25323, U+2538a, U+253eb, U+2541e, U+25462, U+2547b, U+254c1, U+25500, U+2554c, U+25567, U+25571, U+2559d, U+25611, U+25688, U+256f1, U+2574c, U+2575d, U+25762, U+25767, U+25769, U+2578c, U+2579b, U+257d1, U+2584c, U+2591a, U+2594d, U+25977, U+25997, U+25a81, U+25b07, U+25b2f, U+25b32, U+25b4b, U+25b98, U+25bbe, U+25c2d, U+25c7c, U+25cd1, U+25cd3, U+25d2c, U+25d49, U+25dd1, U+25de4, U+25e24, U+25f13, U+26936, U+2bd71;
 }
 /* [F_BF_0] */
 @font-face {

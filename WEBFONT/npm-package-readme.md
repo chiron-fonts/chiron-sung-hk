@@ -3,13 +3,13 @@ Chiron Sung HK Webfont
 
 ## About
 
-This package contains the webfont version of [Chiron Sung HK (昭源宋體)](https://github.com/chiron-fonts/chiron-sung-hk), a serif style typeface that is meant to be a companion of the sans-serif style typeface [Chiron Sans HK Pro (昭源黑體 Pro)](https://www.npmjs.com/package/chiron-sans-hk-pro-webfont).
+This package contains the webfont version of [Chiron Sung HK (昭源宋體)](https://github.com/chiron-fonts/chiron-sung-hk).
 
 Chiron Sung HK is a CJK typeface derived from the Source Han Serif / Noto Serif CJK font family. It aims to provide a modern, region-agnostic glyph set adopting the “written” style that is similar to the prevailing, usually commercial, typefaces such that it is suitable for use in a Traditional Chinese environment.
 
 Chiron Sung HK is available in several configurations: OpenType/CFF (OTF), TrueType (TTF), OpenType/CFF2 (OTF) variable font, TrueType variable font, and the webfont version in WOFF File Format 2.0 (WOFF2) variable font format.
 
-This package provides the webfont (WOFF2) build of the font. It utilizes Unicode-range subsetting technology to reduce download size and improve loading performance. Check out the project's [Github repository](https://github.com/chiron-fonts/chiron-sung-hk) for a complete README, and the font's [demo page](https://chiron-fonts.github.io/sung) for usage example (both are in Chinese only).
+This package provides the webfont (WOFF2) build of the font. It utilizes Unicode-range subsetting technology to reduce download size and improve loading performance. Check out the project's [Github repository](https://github.com/chiron-fonts/chiron-sung-hk) for a complete README, and the font family's [website](https://chiron-fonts.github.io) for usage example (both in Chinese only).
 
 ## Usage
 
