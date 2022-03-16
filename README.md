@@ -194,7 +194,7 @@ body {
 
 ## 授權
 
-昭源宋體採用 SIL Open Font License, 版本 1.1 授權。詳情請參閲 [LICENSE.txt](LICENSE.txt) 檔（只提供英文版本）。
+昭源宋體採用 SIL Open Font License, 版本 1.1 授權。詳情請參閲 [LICENSE.md](LICENSE.md) 檔（只提供英文版本）。
 
 ## 贊助
 
