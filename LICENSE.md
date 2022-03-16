@@ -1,4 +1,4 @@
-Copyright 2021 Tamcy (https://github.com/chiron-fonts/sung), with Reserved Font
+Copyright 2021-2022 Tamcy (https://github.com/chiron-fonts/chiron-sung-hk), with Reserved Font
 Name 'Chiron' and '昭源'.
 
 This Font Software is licensed under the SIL Open Font License,
