@@ -1,13 +1,13 @@
 {
     "family": "Chiron Sung HK",
-    "version": "1.004",
+    "version": "1.005",
     "upstream": {
         "name": "Source Han Serif",
         "version": "2.001"
     },
     "upstreamDifferences": {
         "cjkAdditions": 1210,
-        "cjkRedesignsTC": 1722,
+        "cjkRedesignsTC": 1724,
         "cjkRemapsTC": 3278,
         "cjkRedesignsNonTC": 2058,
         "cjkRemapsNonTC": 241,
