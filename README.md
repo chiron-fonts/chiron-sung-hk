@@ -7,7 +7,7 @@
 
 與昭源宋體相對應的黑體字型是[昭源黑體 (Chiron Hei HK)](https://github.com/chiron-fonts/chiron-hei-hk/)。
 
-有關本字體和昭源黑體的詳細説明，可參閲[昭源字體](https://chiron-fonts.ithub.io/)網頁。
+有關本字體和昭源黑體的詳細説明，可參閲[昭源字體](https://chiron-fonts.github.io/)網頁。
 
 ## 使用本字體
 
