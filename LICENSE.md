@@ -1,4 +1,4 @@
-Copyright 2021-2022 Tamcy (https://github.com/chiron-fonts/chiron-sung-hk).
+Copyright 2021-2023 Tamcy (https://github.com/chiron-fonts/chiron-sung-hk).
 
 This Font Software is licensed under the SIL Open Font License,
 Version 1.1.
