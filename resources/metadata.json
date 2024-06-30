@@ -1,21 +1,21 @@
 {
     "family": "Chiron Sung HK",
-    "version": "1.011",
+    "version": "1.012",
     "upstream": {
         "name": "Source Han Serif",
         "version": "2.002"
     },
     "upstreamDifferences": {
-        "cjkAdditions": 1589,
-        "cjkRedesignsTC": 1871,
+        "cjkAdditions": 1604,
+        "cjkRedesignsTC": 1873,
         "cjkRemapsTC": 3272,
-        "cjkRedesignsNonTC": 2211,
-        "cjkRemapsNonTC": 242,
+        "cjkRedesignsNonTC": 2214,
+        "cjkRemapsNonTC": 241,
         "lgcAdditions": 382,
         "lgcReplacements": 508,
         "lgcRemaps": 15
     },
     "webfont": {
-        "count": 32314
+        "count": 32329
     }
 }
