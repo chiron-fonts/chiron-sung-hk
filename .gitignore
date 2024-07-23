@@ -1,2 +1,4 @@
 _raw/
 package-lock.json
+.idea/
+.vscode/
