@@ -3,7 +3,8 @@ v1.013 (2024/07/26)
 - 調整個別含「瓜」組件字形。
 - 調整個別含「門」組件字形。
 - 修正 variable font 斜體 style linking 問題。
-- 增加 OpenType 文體集 ss15、ss16（測試）。
+- 加入 OpenType 文體集 ss15、ss16（測試）。
+- 加入 ibreve、verticallineabovecmb、verticallineabovecmb.cap、dotaboverightcmb、dotaboverightcmb.cap 字元。
 
 v1.012 (2024/06/30)
 ====
