@@ -3,12 +3,11 @@ Chiron Sung HK Webfont (TrueType)
 
 ## About
 
-This package is a variation of the
-[Chiron Sung HK (昭源黑體) webfont](https://www.npmjs.com/package/chiron-sung-hk-webfont).
-The sole distinction lies in the outline format: this package offers the font in TrueType outlines. Due to
-different rendering engines and font rasterizers in operating systems, using the TrueType flavor may yield different
-results. Some users may found improved display quality on specific platforms, such as Windows. Do note that the font
-files are larger than their OpenType counterparts.
+This npm package provides a variation of
+the [Chiron Sung HK (昭源黑體) webfont](https://www.npmjs.com/package/chiron-sung-hk-webfont) webfont. The key
+distinction lies in the font’s outline format, which is offered in TrueType outlines. In specific cases, using the
+TrueType flavor may result in improved display quality on platforms like Windows. However, note that the TrueType
+font files are larger compared to their OpenType counterparts.
 
 [Chiron Sung HK (昭源宋體)](https://github.com/chiron-fonts/chiron-sung-hk) is a CJK typeface derived from the Source
 Han Serif / Noto Serif CJK font family. It aims to provide a
