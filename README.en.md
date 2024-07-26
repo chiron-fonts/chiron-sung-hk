@@ -17,7 +17,8 @@ Download the font from the [Github Releases](https://github.com/chiron-fonts/chi
 * TrueType format, static instances (`TTF/` directory)
 * OpenType format, static instances (`OTF/` directory)
 * Variable Font in TrueType or OpenType format (`VAR/` directory)
-* Webfont version in WOFF2 format (`WEBFONT/` directory)
+* Webfont version in OpenType WOFF2 format (`WOFF2_OTF/` directory)
+* Webfont version in TrueType WOFF2 format (`WOFF2_TTF/` directory)
 
 The font family name is *Chiron Sung HK* for static instances, and *Chiron Sung HK VF* for the variable font configuration. Use the *Chiron Sung HK WS* font family name for the webfont version (see below).
 
@@ -27,12 +28,16 @@ Besides manually downloading the font from the GitHub Releases page, there are t
 
 1. Self-hosting
 
-Install the [npm package](https://www.npmjs.com/package/chiron-sung-hk-webfont) and import the CSS files. For example: 
+Install the [chiron-sung-hk-webfont npm package](https://www.npmjs.com/package/chiron-sung-hk-webfont) and import the CSS files. For example: 
 
 ```css
 @import '~chiron-sung-hk-webfont/css/vf.css';
 @import '~chiron-sung-hk-webfont/css/vf-italic.css';
 ```
+
+For TrueType outline, install the [chiron-sung-hk-webfont-truetype npm package](https://www.npmjs.com/package/chiron-sung-hk-webfont-truetype) instead, and change the import module name from `chiron-sung-hk-webfont` to `chiron-sung-hk-webfont-truetype`.
+
+```css
 
 2. CDN
 

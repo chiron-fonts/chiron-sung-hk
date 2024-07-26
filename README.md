@@ -13,7 +13,7 @@
 
 ### 桌面環境
 
-前往[本專案的 Github Releases](https://github.com/chiron-fonts/chiron-sung-hk/releases/latest) 頁查看/下載最新版本，然後安裝至作業系統即可使用。字體提供多種格式，包括靜態版 TrueType (`TTF/`目錄)、靜態版OpenType (`OTF/`目錄)、TrueType 和 OpenType 可變式字型 (`VAR/`目錄)。另外，壓縮包亦包括供網頁使用的 WOFF2 網頁字型檔 (`WEBFONT/`目錄)。
+前往[本專案的 Github Releases](https://github.com/chiron-fonts/chiron-sung-hk/releases/latest) 頁查看/下載最新版本，然後安裝至作業系統即可使用。字體提供多種格式，包括靜態版 TrueType (`TTF/` 目錄)、靜態版OpenType (`OTF/` 目錄)、TrueType 和 OpenType 可變式字型 (`VAR/` 目錄)。另外，壓縮包亦包括供網頁使用的 WOFF2 網頁字型檔 (`WOFF2_OTF/` 或 `WOFF2_TTF` 目錄，分別採用 OpenType 及 TrueType 外框格式)。
 
 靜態版字型安裝後的字體名稱是 Chiron Sung HK，可變式字型則是 Chiron Sung HK VF。
 
@@ -28,7 +28,9 @@
 @import '~chiron-sung-hk-webfont/css/vf-italic.css';
 ```
 
-2. 利用 CDN 服務獲得本字體：前往 [jsDeliver](https://www.jsdelivr.com/package/npm/chiron-sung-hk-webfont?path=css) 網站並加入要使用的樣式，再根據指示匯入所需的 CSS 檔案。*注意：不要選擇將所有檔案合成單一檔案的選項，這會令 CSS 樣式無法運作。*
+如要使用 TrueType 外框版本，則可安裝 [chiron-sung-hk-webfont-truetype npm 套件](https://www.npmjs.com/package/chiron-sung-hk-webfont-truetype)，並將匯入名稱從 `chiron-sung-hk-webfont` 改為 `chiron-sung-hk-webfont-truetype`。
+
+2. 利用 CDN 服務獲得本字體：前往 [jsDeliver](https://www.jsdelivr.com/package/npm/chiron-sung-hk-webfont?path=css) （[TrueType](https://www.jsdelivr.com/package/npm/chiron-sung-hk-webfont-truetype?path=css) 版本）網站並加入要使用的樣式，再根據指示匯入所需的 CSS 檔案。*注意：不要選擇將所有檔案合成單一檔案的選項，這會令 CSS 樣式無法運作。*
 
 用例：
 ```css
