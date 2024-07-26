@@ -5,6 +5,7 @@ v1.013 (2024/07/26)
 - 修正 variable font 斜體 style linking 問題。
 - 加入 OpenType 文體集 ss15、ss16（測試）。
 - 加入 ibreve、verticallineabovecmb、verticallineabovecmb.cap、dotaboverightcmb、dotaboverightcmb.cap 字元。
+- 增加 TTF 網頁字型選擇。
 
 v1.012 (2024/06/30)
 ====
