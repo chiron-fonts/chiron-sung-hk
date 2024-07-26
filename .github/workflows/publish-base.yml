@@ -1,0 +1,33 @@
+name: Publish woff2 npm package
+
+on:
+    workflow_call:
+        secrets:
+            npm_token:
+                required: true
+        inputs:
+            directory:
+                description: 'Directory'
+                type: string
+                required: true
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            -   uses: actions/checkout@v4
+                with:
+                    sparse-checkout: |
+                        ${{inputs.directory}}
+                env:
+                    DIRECTORY: ${{inputs.directory}}
+            -   uses: actions/setup-node@v4
+                with:
+                    node-version: 'lts/*'
+                    registry-url: https://registry.npmjs.org/
+            -   run: |
+                    mv npm-package-readme.md README.md
+                    npm publish
+                working-directory: ${{inputs.directory}}
+                env:
+                    NODE_AUTH_TOKEN: ${{secrets.npm_token}}

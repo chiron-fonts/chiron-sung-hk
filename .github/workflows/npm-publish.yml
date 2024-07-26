@@ -6,21 +6,16 @@ on:
     push:
         tags:
             - 'npm/*'
-
-defaults:
-    run:
-        working-directory: WEBFONT
+    workflow_dispatch:
 
 jobs:
-    publish-npm:
-        runs-on: ubuntu-latest
-        steps:
-            -   uses: actions/checkout@v4
-            -   uses: actions/setup-node@v4
-                with:
-                    node-version: 'lts/*'
-                    registry-url: https://registry.npmjs.org/
-            -   run: mv npm-package-readme.md README.md
-            -   run: npm publish
-                env:
-                    NODE_AUTH_TOKEN: ${{secrets.npm_token}}
+    publish-woff2-otf-npm:
+        uses: ./.github/workflows/publish-base.yml
+        with:
+            directory: WOFF2_OTF
+        secrets: inherit
+    publish-woff2-ttf_npm:
+        uses: ./.github/workflows/publish-base.yml
+        with:
+            directory: WOFF2_TTF
+        secrets: inherit
