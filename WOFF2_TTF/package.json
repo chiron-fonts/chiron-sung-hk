@@ -1,6 +1,6 @@
 {
     "name": "chiron-sung-hk-webfont-truetype",
-    "version": "1.0.13",
+    "version": "1.0.14",
     "description": "Webfont version of Chiron Sung HK (TrueType variant), a font specialized for Traditional Chinese environment.",
     "keywords": [
         "Traditional Chinese",
@@ -10,13 +10,13 @@
         "serif",
         "woff2"
     ],
-    "homepage": "https://chiron-fonts.github.io",
+    "homepage": "https:\/\/chiron-fonts.github.io",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/chiron-fonts/chiron-sung-hk.git"
+        "url": "git+https:\/\/github.com\/chiron-fonts\/chiron-sung-hk.git"
     },
     "author": "Tamcy",
     "license": "OFL-1.1"
