@@ -37,8 +37,6 @@ Install the [chiron-sung-hk-webfont npm package](https://www.npmjs.com/package/c
 
 For TrueType outline, install the [chiron-sung-hk-webfont-truetype npm package](https://www.npmjs.com/package/chiron-sung-hk-webfont-truetype) instead, and change the import module name from `chiron-sung-hk-webfont` to `chiron-sung-hk-webfont-truetype`.
 
-```css
-
 2. CDN
 
 Visit the [jsDeliver](https://www.jsdelivr.com/package/npm/chiron-sung-hk-webfont?path=css) webpage, add the desired font styles to the collection, and retrieve the CSS import statements. *Note: do not enable the option that will merge all the selected styles into a single file. This will not work.* 
