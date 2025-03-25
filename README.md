@@ -36,7 +36,7 @@
 ```css
 body {
     font-family: "Chiron Sung HK WS"; /* 留意字體名稱 */
-    font-weight: 310; /* 250 至 900 之間的任一數值 */
+    font-weight: 310; /* 200 至 900 之間的任一數值 */
     font-style: normal; /* normal （正體）或 italic（斜體） */
     font-variation-settings: "PADG" 4; /* 0 至 10 之間的任一數值 */
 }
@@ -93,7 +93,7 @@ body {
 
 | Chiron Sung HK/HK Text | Chiron Sung HK VF | 字重值 |
 |------------------------|-------------------|-----|
-| EL                     | ExtraLight        | 250 |
+| EL                     | ExtraLight        | 200 |
 | L                      | Light             | 300 |
 | N                      | Normal            | 350 |
 | R                      | Regular           | 400 |

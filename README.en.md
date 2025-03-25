@@ -46,7 +46,7 @@ Usage example in CSS:
 ```css
 body {
     font-family: "Chiron Sung HK WS"; /* Note the font name. */
-    font-weight: 310; /* Any number between 250 and 900. */
+    font-weight: 310; /* Any number between 200 and 900. */
     font-style: normal; /* normal or italic. */
     font-variation-settings: "PADG" 4; /* Any number between 0 and 10. */
 }
@@ -104,7 +104,7 @@ The static font families, Chiron Sung HK and Chiron Sung HK Text, use abbreviate
 
 | Chiron Sung HK/HK Text | Chiron Sung HK VF | Weight Axis Value |
 |------------------------|-------------------|-------------------|
-| EL                     | ExtraLight        | 250               |
+| EL                     | ExtraLight        | 200               |
 | L                      | Light             | 300               |
 | N                      | Normal            | 350               |
 | R                      | Regular           | 400               |
