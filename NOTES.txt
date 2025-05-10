@@ -1,0 +1,16 @@
+
+
+
+> docker build -t chiron-sung-builder:latest .
+> docker run --rm -it -v %cd%:/source -v K:\tmp\build:/build chiron-sung-builder /bin/bash
+
+> docker run --rm -it -v %cd%:/source ubuntu:24.04
+
+Run the following commands inside the container:
+
+> apt-get update && apt-get install -y python3 python3-pip
+> mkdir /build
+> cd /source
+> pip install --break-system-packages -r ./scripts/requirements.txt
+> ./bin/build_var.sh      # Done
+> ./bin/build_static.sh

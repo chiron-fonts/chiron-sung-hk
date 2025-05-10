@@ -1,0 +1,159 @@
+# [PostScriptName]
+#   f=FamilyName
+#   s=StyleName
+#   l=Windows_Compatible_MenuName
+#   m=1,Macintosh_Compatible_MenuName
+
+[ChironSungHK-ExtraLight]
+	f=Chiron Sung HK
+	s=ExtraLight
+	l=Chiron Sung HK EL
+
+[ChironSungHK-Light]
+	f=Chiron Sung HK
+	s=Light
+	l=Chiron Sung HK L
+
+[ChironSungHK-Normal]
+	f=Chiron Sung HK
+	s=Normal
+	l=Chiron Sung HK N
+
+[ChironSungHK-Regular]
+	f=Chiron Sung HK
+	s=Regular
+
+[ChironSungHK-Medium]
+	f=Chiron Sung HK
+	s=Medium
+	l=Chiron Sung HK M
+
+[ChironSungHK-SemiBold]
+	f=Chiron Sung HK
+	s=SemiBold
+	l=Chiron Sung HK SB
+
+[ChironSungHK-Bold]
+	f=Chiron Sung HK
+	s=Bold
+
+[ChironSungHK-Heavy]
+	f=Chiron Sung HK
+	s=Heavy
+	l=Chiron Sung HK H
+
+[ChironSungHKSP-ExtraLight]
+	f=Chiron Sung HK Text
+	s=ExtraLight
+	l=Chiron Sung HK Text EL
+
+[ChironSungHKSP-Light]
+	f=Chiron Sung HK Text
+	s=Light
+	l=Chiron Sung HK Text L
+
+[ChironSungHKSP-Normal]
+	f=Chiron Sung HK Text
+	s=Normal
+	l=Chiron Sung HK Text N
+
+[ChironSungHKSP-Regular]
+	f=Chiron Sung HK Text
+	s=Regular
+
+[ChironSungHKSP-Medium]
+	f=Chiron Sung HK Text
+	s=Medium
+	l=Chiron Sung HK Text M
+
+[ChironSungHKSP-SemiBold]
+	f=Chiron Sung HK Text
+	s=SemiBold
+	l=Chiron Sung HK Text SB
+
+[ChironSungHKSP-Bold]
+	f=Chiron Sung HK Text
+	s=Bold
+
+[ChironSungHKSP-Heavy]
+	f=Chiron Sung HK Text
+	s=Heavy
+	l=Chiron Sung HK Text H
+
+# Italics
+
+[ChironSungHK-ExtraLightIt]
+	f=Chiron Sung HK
+	s=ExtraLight Italic
+	l=Chiron Sung HK EL
+
+[ChironSungHK-LightIt]
+	f=Chiron Sung HK
+	s=Light Italic
+	l=Chiron Sung HK L
+
+[ChironSungHK-NormalIt]
+	f=Chiron Sung HK
+	s=Normal Italic
+	l=Chiron Sung HK N
+
+[ChironSungHK-Italic]
+	f=Chiron Sung HK
+	s=Italic
+
+[ChironSungHK-MediumIt]
+	f=Chiron Sung HK
+	s=Medium Italic
+	l=Chiron Sung HK M
+
+[ChironSungHK-SemiBoldIt]
+	f=Chiron Sung HK
+	s=SemiBold Italic
+	l=Chiron Sung HK SB
+
+[ChironSungHK-BoldIt]
+	f=Chiron Sung HK
+	s=Bold Italic
+
+[ChironSungHK-HeavyIt]
+	f=Chiron Sung HK
+	s=Heavy Italic
+	l=Chiron Sung HK H
+
+[ChironSungHKSP-ExtraLightIt]
+	f=Chiron Sung HK Text
+	s=ExtraLight Italic
+	l=Chiron Sung HK Text EL
+
+[ChironSungHKSP-LightIt]
+	f=Chiron Sung HK Text
+	s=Light Italic
+	l=Chiron Sung HK Text L
+
+[ChironSungHKSP-NormalIt]
+	f=Chiron Sung HK Text
+	s=Normal Italic
+	l=Chiron Sung HK Text N
+
+[ChironSungHKSP-Italic]
+	f=Chiron Sung HK Text
+	s=Italic
+
+[ChironSungHKSP-MediumIt]
+	f=Chiron Sung HK Text
+	s=Medium Italic
+	l=Chiron Sung HK Text M
+
+[ChironSungHKSP-SemiBoldIt]
+	f=Chiron Sung HK Text
+	s=SemiBold Italic
+	l=Chiron Sung HK Text SB
+
+[ChironSungHKSP-BoldIt]
+	f=Chiron Sung HK Text
+	s=Bold Italic
+
+[ChironSungHKSP-HeavyIt]
+	f=Chiron Sung HK Text
+	s=Heavy Italic
+	l=Chiron Sung HK Text H
