@@ -35,9 +35,63 @@ languagesystem hani KOR;
 languagesystem hani ZHS;
 languagesystem hani ZHT;
 languagesystem hani ZHH;
-languagesystem latn AZE;
-languagesystem latn CRT;
-languagesystem latn TRK;
-languagesystem latn NLD;
-languagesystem cyrl SRB;
-languagesystem cyrl BGR;
+
+table head {
+  FontRevision 1.019;
+} head;
+
+table hhea {
+  Ascender 1151;
+  Descender -286;
+  LineGap 0;
+} hhea;
+
+table name {
+  nameid 0 "(c) 2017-2024 Adobe (http://www.adobe.com/).";
+  nameid 8 "Adobe";
+  nameid 9 "Ryoko NISHIZUKA \897f\585a\6dbc\5b50 (kana & ideographs); Frank Grie\00DFhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \5F20\6587\9F99 (bopomofo); Sandoll Communications \C0B0\B3CC\CEE4\BBA4\B2C8\CF00\C774\C158, Soohyun PARK \BC15\C218\D604, Yejin WE \C704\C608\C9C4 & Donghoon HAN \D55C\B3D9\D6C8 (hangul elements, letters & syllables); Tamcy (Chinese glyphs modifications & additions)";
+  nameid 10 "Dr. Ken Lunde (project architect, glyph set definition & overall production); Masataka HATTORI \670D\90E8\6B63\8CB4 (production & ideograph elements); Zachary Quinn Scheuren (variable font & overall production); based on Source Han Serif v2.003";
+  nameid 11 "http://www.adobe.com/type/";
+  nameid 12 "https://chiron-fonts.github.io";
+  nameid 13 "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \0022AS IS\0022 BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.";
+  nameid 14 "http://scripts.sil.org/OFL";
+} name;
+
+table vhea {
+  VertTypoLineGap 0;
+} vhea;
+
+table BASE {
+  HorizAxis.BaseTagList                 icfb  icft  ideo  romn;
+  HorizAxis.BaseScriptList  DFLT  ideo   -85  845   -120  0,
+                            hang  ideo   -85  845   -120  0,
+                            hani  ideo   -85  845   -120  0,
+                            kana  ideo   -85  845   -120  0,
+                            latn  romn   -85  845   -120  0,
+                            cyrl  romn   -85  845   -120  0,
+                            grek  romn   -85  845   -120  0;
+
+  VertAxis.BaseTagList                  icfb  icft  ideo  romn;
+  VertAxis.BaseScriptList   DFLT  ideo  35    965   0     120,
+                            hang  ideo  35    965   0     120,
+                            hani  ideo  35    965   0     120,
+                            kana  ideo  35    965   0     120,
+                            latn  romn  35    965   0     120,
+                            cyrl  romn  35    965   0     120,
+                            grek  romn  35    965   0     120;
+} BASE;
+
+table OS/2 {
+  TypoAscender 880;
+  TypoDescender -120;
+  TypoLineGap 0;
+  XHeight 514;
+  CapHeight 729;
+  WeightClass 600;
+  WidthClass 5;
+  Panose 2 2 6 0 0 0 0 0 0 0;
+  FSType 0;
+  Vendor "ADBO";
+  winAscent 1065;
+  winDescent 300;
+} OS/2;
