@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<designspace format="3">
+    <axes>
+        <axis default="200" maximum="900" minimum="200" name="weight" tag="wght">
+            <map input="200" output="0"/>   <!-- ExtraLight -->
+            <map input="300" output="95"/>  <!-- Light -->
+            <map input="400" output="210"/> <!-- Regular -->
+            <map input="500" output="360"/> <!-- Medium -->
+            <map input="600" output="510"/> <!-- SemiBold -->
+            <map input="700" output="730"/> <!-- Bold -->
+            <map input="800" output="865"/> <!-- ExtraBold -->
+            <map input="900" output="1000"/><!-- Heavy -->
+        </axis>
+        <axis default="0" maximum="10" minimum="0" name="padding" tag="PADG"/>
+    </axes>
+    <sources>
+        <source filename="ChironSungHKVF-padding0_weight0-Master.ufo">
+            <lib copy="1"/>
+            <groups copy="1"/>
+            <info copy="1"/>
+            <location>
+                <dimension name="padding" xvalue="0"/>
+                <dimension name="weight" xvalue="0"/>
+            </location>
+        </source>
+        <source filename="ChironSungHKVF-padding0_weight510-Master.ufo">
+            <location>
+                <dimension name="padding" xvalue="0"/>
+                <dimension name="weight" xvalue="510"/>
+            </location>
+        </source>
+        <source filename="ChironSungHKVF-padding0_weight1000-Master.ufo">
+            <location>
+                <dimension name="padding" xvalue="0"/>
+                <dimension name="weight" xvalue="1000"/>
+            </location>
+        </source>
+        <source filename="ChironSungHKVF-padding10_weight0-Master.ufo">
+            <location>
+                <dimension name="padding" xvalue="10"/>
+                <dimension name="weight" xvalue="0"/>
+            </location>
+        </source>
+        <source filename="ChironSungHKVF-padding10_weight510-Master.ufo">
+            <location>
+                <dimension name="padding" xvalue="10"/>
+                <dimension name="weight" xvalue="510"/>
+            </location>
+        </source>
+        <source filename="ChironSungHKVF-padding10_weight1000-Master.ufo">
+            <location>
+                <dimension name="padding" xvalue="10"/>
+                <dimension name="weight" xvalue="1000"/>
+            </location>
+        </source>
+    </sources>
+    <instances>
+        <instance familyname="ChironSungHK" postscriptfontname="ChironSungHK-ExtraLight" stylename="ExtraLight">
+            <location>
+                <dimension name="padding" xvalue="0"/>
+                <dimension name="weight" xvalue="0"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironSungHK" postscriptfontname="ChironSungHK-Light" stylename="Light">
+            <location>
+                <dimension name="padding" xvalue="0"/>
+                <dimension name="weight" xvalue="95"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironSungHK" postscriptfontname="ChironSungHK-Normal" stylename="Normal">
+            <location>
+                <dimension name="padding" xvalue="0"/>
+                <dimension name="weight" xvalue="153"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironSungHK" postscriptfontname="ChironSungHK-Regular" stylename="Regular">
+            <location>
+                <dimension name="padding" xvalue="0"/>
+                <dimension name="weight" xvalue="210"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironSungHK" postscriptfontname="ChironSungHK-Medium" stylename="Medium">
+            <location>
+                <dimension name="padding" xvalue="0"/>
+                <dimension name="weight" xvalue="360"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironSungHK" postscriptfontname="ChironSungHK-SemiBold" stylename="SemiBold">
+            <location>
+                <dimension name="padding" xvalue="0"/>
+                <dimension name="weight" xvalue="510"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironSungHK" postscriptfontname="ChironSungHK-Bold" stylename="Bold">
+            <location>
+                <dimension name="padding" xvalue="0"/>
+                <dimension name="weight" xvalue="730"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironSungHK" postscriptfontname="ChironSungHK-ExtraBold" stylename="ExtraBold">
+            <location>
+                <dimension name="padding" xvalue="0"/>
+                <dimension name="weight" xvalue="865"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironSungHK" postscriptfontname="ChironSungHK-Heavy" stylename="Heavy">
+            <location>
+                <dimension name="padding" xvalue="0"/>
+                <dimension name="weight" xvalue="1000"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+
+        <!-- Text -->
+
+        <instance familyname="ChironSungHK" postscriptfontname="ChironSungHKextExtraLight" stylename="Text ExtraLight">
+            <location>
+                <dimension name="padding" xvalue="6"/>
+                <dimension name="weight" xvalue="0"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironSungHK" postscriptfontname="ChironSungHKextLight" stylename="Text Light">
+            <location>
+                <dimension name="padding" xvalue="6"/>
+                <dimension name="weight" xvalue="95"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironSungHK" postscriptfontname="ChironSungHKextRegular" stylename="Text Regular">
+            <location>
+                <dimension name="padding" xvalue="6"/>
+                <dimension name="weight" xvalue="210"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironSungHK" postscriptfontname="ChironSungHKextMedium" stylename="Text Medium">
+            <location>
+                <dimension name="padding" xvalue="6"/>
+                <dimension name="weight" xvalue="360"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironSungHK" postscriptfontname="ChironSungHKextSemiBold" stylename="Text SemiBold">
+            <location>
+                <dimension name="padding" xvalue="6"/>
+                <dimension name="weight" xvalue="510"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironSungHK" postscriptfontname="ChironSungHKextBold" stylename="Text Bold">
+            <location>
+                <dimension name="padding" xvalue="6"/>
+                <dimension name="weight" xvalue="730"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironHeiHK" postscriptfontname="ChironHeiHK-TextExtraBold" stylename="Text ExtraBold">
+            <location>
+                <dimension name="padding" xvalue="6"/>
+                <dimension name="weight" xvalue="865"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironSungHK" postscriptfontname="ChironSungHKextHeavy" stylename="Text Heavy">
+            <location>
+                <dimension name="padding" xvalue="6"/>
+                <dimension name="weight" xvalue="1000"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+
+    </instances>
+</designspace>
