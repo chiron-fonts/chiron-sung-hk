@@ -112,8 +112,8 @@ build_vf_ttf() {
   python3 ./build_var_ttf.py /tmp/$FILENAME.designspace /tmp/$FILENAME.ttf
 
   echo "Post-processing TTF font..."
-  sfntedit -x cmap=_tb_cmap,GDEF=_tb_GDEF,GPOS=_tb_GPOS,GSUB=_tb_GSUB,name=_tb_name,OS/2=_tb_OS2,hhea=_tb_hhea,post=_tb_post,STAT=_tb_STAT,fvar=_tb_fvar ./ChironHeiHKVF.otf
-  sfntedit -a cmap=_tb_cmap,GDEF=_tb_GDEF,GPOS=_tb_GPOS,GSUB=_tb_GSUB,name=_tb_name,OS/2=_tb_OS2,hhea=_tb_hhea,post=_tb_post,STAT=_tb_STAT,fvar=_tb_fvar ./ChironHeiHKVF.ttf
+  sfntedit -x cmap=_tb_cmap,GDEF=_tb_GDEF,GPOS=_tb_GPOS,GSUB=_tb_GSUB,name=_tb_name,OS/2=_tb_OS2,hhea=_tb_hhea,post=_tb_post,STAT=_tb_STAT,fvar=_tb_fvar ./ChironSungHKVF.otf
+  sfntedit -a cmap=_tb_cmap,GDEF=_tb_GDEF,GPOS=_tb_GPOS,GSUB=_tb_GSUB,name=_tb_name,OS/2=_tb_OS2,hhea=_tb_hhea,post=_tb_post,STAT=_tb_STAT,fvar=_tb_fvar ./ChironSungHKVF.ttf
 
   echo "Moving files to the target directory..."
   mv /tmp/$FILENAME.ttf $BUILD_VF_DIR
