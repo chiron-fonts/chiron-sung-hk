@@ -63994,7 +63994,8 @@
     },
     {
         "cid": 12913,
-        "glyphName": "uni5668_TW"
+        "glyphName": "u2010F",
+        "codepoint": "2010F"
     },
     {
         "cid": 12914,
@@ -64008,11 +64009,13 @@
     },
     {
         "cid": 12916,
-        "glyphName": "uni566A_TW"
+        "glyphName": "u208A0",
+        "codepoint": "208A0"
     },
     {
         "cid": 12917,
-        "glyphName": "uni566B_JP"
+        "glyphName": "u20D69",
+        "codepoint": "20D69"
     },
     {
         "cid": 12918,
@@ -64026,11 +64029,13 @@
     },
     {
         "cid": 12920,
-        "glyphName": "uni566C_TW"
+        "glyphName": "u20EE6",
+        "codepoint": "20EE6"
     },
     {
         "cid": 12921,
-        "glyphName": "uni566D_JP"
+        "glyphName": "u21372",
+        "codepoint": "21372"
     },
     {
         "cid": 12922,
@@ -64049,7 +64054,8 @@
     },
     {
         "cid": 12925,
-        "glyphName": "uni566F_TW"
+        "glyphName": "u21697",
+        "codepoint": "21697"
     },
     {
         "cid": 12926,
@@ -64058,11 +64064,13 @@
     },
     {
         "cid": 12927,
-        "glyphName": "uni5671_JP"
+        "glyphName": "u21CB0",
+        "codepoint": "21CB0"
     },
     {
         "cid": 12928,
-        "glyphName": "uni5671_CN"
+        "glyphName": "u21D36",
+        "codepoint": "21D36"
     },
     {
         "cid": 12929,
@@ -64076,11 +64084,13 @@
     },
     {
         "cid": 12931,
-        "glyphName": "uni5672_HK"
+        "glyphName": "u225B2",
+        "codepoint": "225B2"
     },
     {
         "cid": 12932,
-        "glyphName": "uni5673_CN"
+        "glyphName": "u235FA",
+        "codepoint": "235FA"
     },
     {
         "cid": 12933,
@@ -64094,7 +64104,8 @@
     },
     {
         "cid": 12935,
-        "glyphName": "uni5675_JP"
+        "glyphName": "u23F78",
+        "codepoint": "23F78"
     },
     {
         "cid": 12936,
@@ -64103,15 +64114,18 @@
     },
     {
         "cid": 12937,
-        "glyphName": "uni5676_JP"
+        "glyphName": "u243A3",
+        "codepoint": "243A3"
     },
     {
         "cid": 12938,
-        "glyphName": "uni5676_CN"
+        "glyphName": "u25232",
+        "codepoint": "25232"
     },
     {
         "cid": 12939,
-        "glyphName": "uni5676_TW"
+        "glyphName": "u2532F",
+        "codepoint": "2532F"
     },
     {
         "cid": 12940,
@@ -64125,7 +64139,8 @@
     },
     {
         "cid": 12942,
-        "glyphName": "uni5678_JP"
+        "glyphName": "u2533D",
+        "codepoint": "2533D"
     },
     {
         "cid": 12943,
@@ -64139,11 +64154,13 @@
     },
     {
         "cid": 12945,
-        "glyphName": "uni567A_JP"
+        "glyphName": "u2588E",
+        "codepoint": "2588E"
     },
     {
         "cid": 12946,
-        "glyphName": "uni567A_CN"
+        "glyphName": "u26707",
+        "codepoint": "26707"
     },
     {
         "cid": 12947,
@@ -64167,7 +64184,8 @@
     },
     {
         "cid": 12951,
-        "glyphName": "uni567E_CN"
+        "glyphName": "u2683F",
+        "codepoint": "2683F"
     },
     {
         "cid": 12952,
@@ -64176,7 +64194,8 @@
     },
     {
         "cid": 12953,
-        "glyphName": "uni567F_CN"
+        "glyphName": "u26841",
+        "codepoint": "26841"
     },
     {
         "cid": 12954,
@@ -64185,7 +64204,8 @@
     },
     {
         "cid": 12955,
-        "glyphName": "uni5680_JP"
+        "glyphName": "u28469",
+        "codepoint": "28469"
     },
     {
         "cid": 12956,
@@ -64194,7 +64214,8 @@
     },
     {
         "cid": 12957,
-        "glyphName": "uni5681_CN"
+        "glyphName": "u296CD",
+        "codepoint": "296CD"
     },
     {
         "cid": 12958,
