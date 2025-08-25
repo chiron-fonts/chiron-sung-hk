@@ -12,12 +12,13 @@ build_vf_woff2() {
 
   mkdir -p "$OUTPUT_DIRECTORY/css" "$OUTPUT_DIRECTORY/demo" "$OUTPUT_DIRECTORY/woff2"
 
-  cp ./source/$STYLE/woff2/$ASSET_FILENAME.css "$OUTPUT_DIRECTORY/css/$ASSET_FILENAME.css"
-  cp ./source/$STYLE/woff2/$ASSET_FILENAME.html "$OUTPUT_DIRECTORY/demo/$ASSET_FILENAME.html"
+  cp ./source/$STYLE/woff2/*.css "$OUTPUT_DIRECTORY/css/"
+  cp ./source/$STYLE/woff2/*.html "$OUTPUT_DIRECTORY/demo/"
 
   while IFS=, read -r pfx codepoints
   do
       echo "Building WOFF2 for $pfx"
+      mkdir -p "$OUTPUT_DIRECTORY/woff2/$(dirname "$pfx")"
       pyftsubset "$SOURCE_FILENAME" --unicodes="$codepoints" --flavor=woff2 --layout-features=* --drop-tables="BASE" --output-file="$OUTPUT_DIRECTORY/woff2/$pfx.woff2"
   done < <(grep "" ./source/$STYLE/woff2/subset.csv)
 }

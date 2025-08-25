@@ -37,7 +37,7 @@ languagesystem hani ZHT;
 languagesystem hani ZHH;
 
 table head {
-  FontRevision 1.020;
+  FontRevision 1.021;
 } head;
 
 table hhea {
@@ -47,9 +47,9 @@ table hhea {
 } hhea;
 
 table name {
-  nameid 0 "(c) 2017-2024 Adobe (http://www.adobe.com/).";
+  nameid 0 "\00A9 2017-2024 Adobe (http://www.adobe.com/).";
   nameid 8 "Adobe";
-  nameid 9 "Ryoko NISHIZUKA \897f\585a\6dbc\5b50 (kana & ideographs); Frank Grie\00DFhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \5F20\6587\9F99 (bopomofo); Sandoll Communications \C0B0\B3CC\CEE4\BBA4\B2C8\CF00\C774\C158, Soohyun PARK \BC15\C218\D604, Yejin WE \C704\C608\C9C4 & Donghoon HAN \D55C\B3D9\D6C8 (hangul elements, letters & syllables); Tamcy (Chinese glyphs modifications & additions)";
+  nameid 9 "Ryoko NISHIZUKA \897f\585a\6dbc\5b50 (kana & ideographs); Frank Grie\00DFhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \5F20\6587\9F99 (bopomofo); Sandoll Communications \C0B0\B3CC\CEE4\BBA4\B2C8\CF00\C774\C158, Soohyun PARK \BC15\C218\D604, Yejin WE \C704\C608\C9C4 & Donghoon HAN \D55C\B3D9\D6C8 (hangul elements, letters & syllables); Tamcy (Glyphs modifications & additions)";
   nameid 10 "Dr. Ken Lunde (project architect, glyph set definition & overall production); Masataka HATTORI \670D\90E8\6B63\8CB4 (production & ideograph elements); Zachary Quinn Scheuren (variable font & overall production); based on Source Han Serif v2.003";
   nameid 11 "http://www.adobe.com/type/";
   nameid 12 "https://chiron-fonts.github.io";
