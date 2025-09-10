@@ -148,7 +148,7 @@ languagesystem cyrl BGR; # Bulgarian
 ## > Remote Merge End: Glyph Classes <
 
 table head {
-  FontRevision 1.021;
+  FontRevision 1.022;
 } head;
 
 table hhea {
