@@ -1,7 +1,7 @@
 /**
  * Font family: Chiron Sung HK WS, generated from Chiron Sung HK
  * Version: 1.022
- * Build time: 2025-09-10 01:30:19
+ * Build time: 2025-09-10 16:45:07
  */
 /* [t0/lgc] (948) */
 @font-face {
@@ -975,14 +975,14 @@
   src: url('../woff2/vf-italic/t0/ichk.woff2') format('woff2-variations'), url('../woff2/vf-italic/t0/ichk.woff2') format('woff2 supports variations');
   unicode-range: U+5ef1, U+6250, U+6264, U+65d0, U+6a16, U+6be7, U+7502, U+7650, U+7935, U+7a47, U+82b5, U+85b6, U+8f2e, U+9b01, U+9b0e, U+9beb;
 }
-/* [t0/m0] (7) */
+/* [t0/m0] (9) */
 @font-face {
   font-family: 'Chiron Sung HK WS';
   font-style: italic;
   font-weight: 200 900;
   font-display: swap;
   src: url('../woff2/vf-italic/t0/m0.woff2') format('woff2-variations'), url('../woff2/vf-italic/t0/m0.woff2') format('woff2 supports variations');
-  unicode-range: U+32ff, U+3402, U+35e9, U+210ab, U+29e3d, U+2d253, U+301db;
+  unicode-range: U+32ff, U+3402, U+35e9, U+210ab, U+29e3d, U+2bb37, U+2d253, U+2d25d, U+301db;
 }
 /* [t1/kxst] (235) */
 @font-face {
