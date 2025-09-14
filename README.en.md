@@ -14,9 +14,10 @@ Also check out [Chiron Hei HK](https://github.com/chiron-fonts/chiron-hei-hk/), 
 ### For desktop
 
 Download the font from the [Github Releases](https://github.com/chiron-fonts/chiron-sung-hk/releases/latest) page and install it. The font comes with various configurations:
-* TrueType format, static instances (`TTF/` directory)
-* OpenType format, static instances (`OTF/` directory)
-* Variable Font in TrueType or OpenType format (`VAR/` directory)
+* OpenType format, static instances (`STATIC_OTF/` directory)
+* TrueType format, static instances (`STATIC_TTF/` directory)
+* Variable Font in OpenType format (`VAR_OTF/` directory)
+* Variable Font in TrueType format (`VAR_TTF/` directory)
 * Webfont version in OpenType WOFF2 format (`WOFF2_OTF/` directory)
 * Webfont version in TrueType WOFF2 format (`WOFF2_TTF/` directory)
 
@@ -52,7 +53,7 @@ body {
 }
 ```
 
-## Comparison to the Upstream 
+## Comparison with Upstream 
 
 ![Alt text](images/diff-glyphs.png)
 
