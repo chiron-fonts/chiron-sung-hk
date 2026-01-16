@@ -48,7 +48,7 @@ body {
 
 ### 字樣
 
-![Alt text](images/diff-glyphs.png)
+![Alt text](images/diff-glyphs.webp)
 
 思源宋體（香港）以中文界面諮詢委員會（中諮會）在 2016 年公佈的[《香港電腦漢字參考字形》](https://www.ccli.gov.hk/tc/download/reference_glyphs.html)為字形依據，此一文件所示之字樣傾向令印刷體靠攏手寫字形。
 
@@ -62,7 +62,7 @@ body {
 
 ### 全形標點符號調整
 
-![Alt text](images/diff-punc.png)
+![Alt text](images/diff-punc.webp)
 
 * 全形標點符號字樣經過調整。
 * `‘`、`’`、`“`、`”`改為預出調和 (proportional) 版本。
@@ -71,7 +71,7 @@ body {
 
 ### 新增中文字元
 
-![Alt text](images/diff-additions.png)
+![Alt text](images/diff-additions.webp)
 
 昭源宋體新增逾千個中文字碼，納入了 HKSCS-2016 公佈後的補編新收字，還有其他粵、台、客語字。
 
@@ -83,7 +83,7 @@ body {
 
 ### 斜體
 
-![Alt text](images/diff-italics.png)
+![Alt text](images/diff-italics.webp)
 
 思源宋體（香港）沒有真正的斜體樣式選項。昭源宋體則提供一套將非 LGC 字元傾斜然後嵌入 Source Serif 斜體的斜體版供選用。
 
@@ -112,7 +112,7 @@ body {
 
 ### 新增 “Text” 字體家族
 
-![Alt text](images/diff-text.png)
+![Alt text](images/diff-text.webp)
 
 簡言之，此一字體家族就是將上述 `PADG` 軸設為 6 的靜態字型版本。
 

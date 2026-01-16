@@ -55,7 +55,7 @@ body {
 
 ## Comparison with Upstream 
 
-![Alt text](images/diff-glyphs.png)
+![Alt text](images/diff-glyphs.webp)
 
 Chiron Sung HK is based on the Traditional Chinese (Hong Kong) variant of Source Han Serif *(the upstream)*. Here’s a comparison to illustrate the features of Chiron Sung HK:
 
@@ -74,7 +74,7 @@ Chiron Sung HK covers all codepoints in the **language-specific** configuration 
 
 ### Full-width punctuations adjustment
 
-![Alt text](images/diff-punc.png)
+![Alt text](images/diff-punc.webp)
 
 * Full-width punctuation shapes have been slightly adjusted.
 * `‘`, `’`, `“` and `”` now default to their proportional version.      
@@ -83,7 +83,7 @@ Chiron Sung HK covers all codepoints in the **language-specific** configuration 
 
 ### Character additions (Chinese)
 
-![Alt text](images/diff-additions.png)
+![Alt text](images/diff-additions.webp)
 
 Over a thousand Chinese character glyphs have been added, including amendments after the publishing of HKSCS-2016.
 
@@ -95,7 +95,7 @@ The full set of [Source Serif](https://github.com/adobe-fonts/source-serif) has 
 
 ### Italic style
 
-![Alt text](images/diff-italics.png)
+![Alt text](images/diff-italics.webp)
 
 Source Han Serif does not have a true italic font configuration. Chiron Sung HK provides an italic style by slanting the original (non-LGC) glyphs and then incorporating the Source Serif italic typeface. 
 
@@ -124,7 +124,7 @@ The “PADG” axis changes the glyph contour without affecting other measuremen
 
 ### Additional “Text” subfamily
 
-![Alt text](images/diff-text.png)
+![Alt text](images/diff-text.webp)
 
 This subfamily is created by converting the variable instance of different weights with `PADG` axis set to 6 to static instances.
 
