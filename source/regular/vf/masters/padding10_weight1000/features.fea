@@ -148,7 +148,7 @@ languagesystem cyrl BGR; # Bulgarian
 ## > Remote Merge End: Glyph Classes <
 
 table head {
-  FontRevision 1.022;
+  FontRevision 1.023;
 } head;
 
 table hhea {
@@ -23310,6 +23310,7 @@ lookup HAN_STANDARDIZE {
   substitute \43185 by \43213;
   substitute \11416 by \11217;
   substitute \11155 by \11154;
+  substitute \23919 by \24422;
   substitute \11797 by \17035;
   substitute \11816 by \17093;
   substitute \29550 by \38640;
@@ -23318,7 +23319,6 @@ lookup HAN_STANDARDIZE {
   substitute \11194 by \11405;
   substitute \11192 by \11405;
   substitute \41479 by \41350;
-  substitute \33803 by \33944;
   substitute \11893 by \27090;
   substitute \24482 by \42815;
 } HAN_STANDARDIZE;
